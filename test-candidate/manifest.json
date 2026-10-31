@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.0/DomDog-WebView2-Candidate-0.18.0-win-x64-selfcontained.zip",
-  "packageSizeBytes": 72885951,
-  "packageSha256": "36857e2557007621dbc42cd3b1403a4b988c320cc295809d4f517a163c390d56",
-  "description": "0.18.0 — первая версия с обновлением из «Настроек» (пересборка после снятия сборки 2026-10-31: исправлен запуск updater в self-contained)",
-  "issuedAtUtc": "2026-10-31T15:30:24.6448482Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.1/DomDog-WebView2-Candidate-0.18.1-win-x64-selfcontained.zip",
+  "packageSizeBytes": 72885866,
+  "packageSha256": "7950f40003105abd3a67b46990f446f7805e04daa385048df9647c720546203e",
+  "description": "0.18.1 — версия для проверки обновления с 0.18.0 (пересборка после снятия сборки 2026-10-31)",
+  "issuedAtUtc": "2026-10-31T15:34:15.5942335Z"
 }
