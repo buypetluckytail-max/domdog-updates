@@ -2,7 +2,7 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.1",
+  "version": "99.0.0",
   "minCompatibleVersion": "0.18.0",
   "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.1/DomDog-WebView2-Candidate-0.18.1-win-x64-selfcontained.zip",
   "packageSizeBytes": 72885866,
