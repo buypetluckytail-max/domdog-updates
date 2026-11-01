@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.1",
+  "version": "0.18.3",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.1/DomDog-WebView2-Candidate-0.18.1-win-x64-selfcontained.zip",
-  "packageSizeBytes": 72886040,
-  "packageSha256": "1b7cf37125c2c7124b7ecfbc7b8a4cd6adaaf97c307ed1f0fc89c5d4fb9e2772",
-  "description": "0.18.1 — версия для проверки обновления с 0.18.0 (пересборка: исправлен запуск updater в self-contained и описание проверки подписи)",
-  "issuedAtUtc": "2026-10-31T15:46:59.5015239Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.3/DomDog-WebView2-Candidate-0.18.3-win-x64-selfcontained.zip",
+  "packageSizeBytes": 72915610,
+  "packageSha256": "7e463b7a6818e44c564e77e4196f63406090b6d6251aa5685ba252acfe2d2f27",
+  "description": "0.18.3 — защита сборки: «проверяется…» вместо ложного «не подтверждена» на первом запуске (ключ cookie создаётся после первой навигации); профиль сайтов перенесён в %LOCALAPPDATA%\\DomDogWebView2Candidate\\profile, входы из 0.18.0–0.18.2 не переносятся; updater не падает на занятых файлах старого профиля WebView2",
+  "issuedAtUtc": "2026-11-01T12:10:19.1267562Z"
 }
