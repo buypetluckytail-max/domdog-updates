@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.4",
+  "version": "0.18.5",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.4/DomDog-WebView2-Candidate-0.18.4-win-x64-selfcontained.zip",
-  "packageSizeBytes": 72941302,
-  "packageSha256": "d5c67e17ac9dcab65295fddf0dfafdc67652d12e36bfe472b479579a699f90f6",
-  "description": "0.18.4 — платформа открывается своим пунктом (активная вкладка однозначна), верхней части нет: защита и «Настройки» внизу левой панели, навигация Alt+←/→, F5 и боковые кнопки мыши; строки Meta с оформлением; в «Настройках» локальные дата и время проверки и понятный источник; updater ждёт освобождения файлов до 120 с и не скачивает пакет повторно (попытка 2: updater собирается как net8.0-windows — иначе окно ожидания и WinForms требуют Windows-платформу; первый прогон упал на сборке)",
-  "issuedAtUtc": "2026-11-01T17:17:10.0164470Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.5/DomDog-WebView2-Candidate-0.18.5-win-x64-selfcontained.zip",
+  "packageSizeBytes": 72946582,
+  "packageSha256": "4ad9b8d56f3be90afbf54d9c0a6ab1081f1f76314c6609008cdb9717c8ff5c62",
+  "description": "0.18.5 — в левой панели группа «Мессенджеры» стоит первой, ниже соцсети, затем «Почта»; в мессенджерах шесть пунктов с меткой «ЧАТ»: WhatsApp, Telegram, Messenger (Facebook), VK Мессенджер, MAX, WeChat; всего 19 платформ. Messenger открывается на facebook.com/messages, VK Мессенджер — vk.com/im (сайт VK переехал на vk.ru). Каждый мессенджер — своя вкладка с подсветкой, повторное нажатие возвращает к открытой странице. Дизайн, защита сборки, updater, ключ и канал не менялись.",
+  "issuedAtUtc": "2026-11-01T21:32:49.9233219Z"
 }
