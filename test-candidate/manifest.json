@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.6",
+  "version": "0.18.7",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.6/DomDog-WebView2-Candidate-0.18.6-win-x64-selfcontained.zip",
-  "packageSizeBytes": 72958086,
-  "packageSha256": "f357e6e06b3b45962864a94e23e31db5efbde8e82d108f01181e7ed2db5477d0",
-  "description": "0.18.6 — три исправления. 1) Запуск установщика: приложение больше не копирует весь свой каталог, занятый файл не срывает установку, сырых английских сообщений нет. 2) Падение при вводе текста и смене раскладки («Only the invariant culture is supported… 1033»): InvariantGlobalization=false в приложении и установщике. 3) Сквозной перехват необработанных ошибок: запись в журнал и понятное сообщение по-русски вместо окна .NET. Дополнительно: проверка защиты сборки не идёт параллельно — ложный отказ профиля больше не открывает барьер. Мессенджеры и порядок групп из 0.18.5, дизайн, ключ, канал и защита не менялись.",
-  "issuedAtUtc": "2026-11-02T08:12:41.0425141Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.7/DomDog-WebView2-Candidate-0.18.7-win-x64-selfcontained.zip",
+  "packageSizeBytes": 72980464,
+  "packageSha256": "daaa5faf55b1b9d582877adcb5bfff95f975448aba68e7cf8d787d8cd8f5aeab",
+  "description": "0.18.7 — защищённый DNS (DNS-over-HTTPS) внутри программы. Программа сама разрешает имена площадок через https://cloudflare-dns.com/dns-query (запасной https://dns.google/dns-query), без отката на DNS Windows: имя, которое не удалось разрешить по HTTPS, получает отказ, а не уходит в системный DNS. В «⚙ Настройки» — переключатель «Защищённый DNS» (по умолчанию включён) и выбор сервера; изменение применяется после перезапуска, о чём сказано по-русски. В журнал пишется состояние DoH, сервер и ошибки разрешения имён. Системные настройки Windows не меняются, права администратора не нужны. Замерено в CI: при системном DNS, отвечающем NXDOMAIN на web.whatsapp.com, www.facebook.com и messenger.com, все три страницы открываются; с выключенным переключателем они же дают ERR_NAME_NOT_RESOLVED. Также: отмена загрузки больше не показывается как ошибка навигации, неразрешённое имя объясняется понятной строкой. Платформы, дизайн, ключ, канал и защита не менялись.",
+  "issuedAtUtc": "2026-11-02T10:14:48.9722518Z"
 }
