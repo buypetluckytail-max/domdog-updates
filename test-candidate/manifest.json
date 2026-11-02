@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.18.5",
+  "version": "0.18.6",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.5/DomDog-WebView2-Candidate-0.18.5-win-x64-selfcontained.zip",
-  "packageSizeBytes": 72946582,
-  "packageSha256": "4ad9b8d56f3be90afbf54d9c0a6ab1081f1f76314c6609008cdb9717c8ff5c62",
-  "description": "0.18.5 — в левой панели группа «Мессенджеры» стоит первой, ниже соцсети, затем «Почта»; в мессенджерах шесть пунктов с меткой «ЧАТ»: WhatsApp, Telegram, Messenger (Facebook), VK Мессенджер, MAX, WeChat; всего 19 платформ. Messenger открывается на facebook.com/messages, VK Мессенджер — vk.com/im (сайт VK переехал на vk.ru). Каждый мессенджер — своя вкладка с подсветкой, повторное нажатие возвращает к открытой странице. Дизайн, защита сборки, updater, ключ и канал не менялись.",
-  "issuedAtUtc": "2026-11-01T21:32:49.9233219Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.18.6/DomDog-WebView2-Candidate-0.18.6-win-x64-selfcontained.zip",
+  "packageSizeBytes": 72958086,
+  "packageSha256": "f357e6e06b3b45962864a94e23e31db5efbde8e82d108f01181e7ed2db5477d0",
+  "description": "0.18.6 — три исправления. 1) Запуск установщика: приложение больше не копирует весь свой каталог, занятый файл не срывает установку, сырых английских сообщений нет. 2) Падение при вводе текста и смене раскладки («Only the invariant culture is supported… 1033»): InvariantGlobalization=false в приложении и установщике. 3) Сквозной перехват необработанных ошибок: запись в журнал и понятное сообщение по-русски вместо окна .NET. Дополнительно: проверка защиты сборки не идёт параллельно — ложный отказ профиля больше не открывает барьер. Мессенджеры и порядок групп из 0.18.5, дизайн, ключ, канал и защита не менялись.",
+  "issuedAtUtc": "2026-11-02T08:12:41.0425141Z"
 }
