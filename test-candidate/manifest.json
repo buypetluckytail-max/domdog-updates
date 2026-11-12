@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.20.2",
+  "version": "0.20.3",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.20.2/DomDog-WebView2-Candidate-0.20.2-win-x64-selfcontained.zip",
-  "packageSizeBytes": 73230808,
-  "packageSha256": "88b90750cda39e50433a5026d0659ebbfa5dff0203bfb37bef93c5c741d73010",
-  "description": "0.20.2 — сообщения ВКонтакте (личные и группы), сообщения Авито, счётчики и настройки групп",
-  "issuedAtUtc": "2026-11-12T14:15:26.2961178Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.20.3/DomDog-WebView2-Candidate-0.20.3-win-x64-selfcontained.zip",
+  "packageSizeBytes": 73243057,
+  "packageSha256": "4a93680fd93504f2577be662a22a6e1c1caaefcda2253ac7d03b5bc950502e1d",
+  "description": "0.20.3 — Одноклассники, Instagram Direct, TikTok: сообщения; счётчики ВК из меню и «Непрочитанных», счётчики со страницы",
+  "issuedAtUtc": "2026-11-12T15:04:49.4472554Z"
 }
