@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.20.3",
+  "version": "0.20.4",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.20.3/DomDog-WebView2-Candidate-0.20.3-win-x64-selfcontained.zip",
-  "packageSizeBytes": 73243057,
-  "packageSha256": "4a93680fd93504f2577be662a22a6e1c1caaefcda2253ac7d03b5bc950502e1d",
-  "description": "0.20.3 — Одноклассники, Instagram Direct, TikTok: сообщения; счётчики ВК из меню и «Непрочитанных», счётчики со страницы",
-  "issuedAtUtc": "2026-11-12T15:04:49.4472554Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.20.4/DomDog-WebView2-Candidate-0.20.4-win-x64-selfcontained.zip",
+  "packageSizeBytes": 73265202,
+  "packageSha256": "d986e98ae39799e38b55d4a1b5f981301a9706cb98ec367d5c5d86e82ca2b641",
+  "description": "0.20.4 — свой порядок площадок: перетаскивание, «вверх/вниз», «в группу», сохранение и сброс",
+  "issuedAtUtc": "2026-11-13T17:25:50.4265582Z"
 }
