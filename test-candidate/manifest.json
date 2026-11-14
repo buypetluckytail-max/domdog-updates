@@ -2,11 +2,11 @@
   "productId": "domdog-social-browser-webview2-candidate",
   "channel": "test-candidate",
   "arch": "x64",
-  "version": "0.20.4",
+  "version": "0.21.0",
   "minCompatibleVersion": "0.18.0",
-  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.20.4/DomDog-WebView2-Candidate-0.20.4-win-x64-selfcontained.zip",
-  "packageSizeBytes": 73265202,
-  "packageSha256": "d986e98ae39799e38b55d4a1b5f981301a9706cb98ec367d5c5d86e82ca2b641",
-  "description": "0.20.4 — свой порядок площадок: перетаскивание, «вверх/вниз», «в группу», сохранение и сброс",
-  "issuedAtUtc": "2026-11-13T17:25:50.4265582Z"
+  "packageUrl": "https://github.com/buypetluckytail-max/domdog-updates/releases/download/v0.21.0/DomDog-WebView2-Candidate-0.21.0-win-x64-selfcontained.zip",
+  "packageSizeBytes": 73289947,
+  "packageSha256": "fea11d46a9172c3cf27c469b3d1459ff811d8dccbc54e4328756ef1403067894",
+  "description": "0.21.0 — «Переслать в…»: копирование штатной командой движка и переход в другую площадку без автоматической отправки",
+  "issuedAtUtc": "2026-11-14T11:42:21.9304456Z"
 }
